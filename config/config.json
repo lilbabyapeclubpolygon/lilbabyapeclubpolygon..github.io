@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcaCB36CD8f67bB3607a417a0f3c7217e4BDb4a6C",
+  "SCAN_LINK": "https://polygonscan.com/token/0xcacb36cd8f67bb3607a417a0f3c7217e4bdb4a6c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lil Baby Ape Club Polygon",
+  "SYMBOL": "LBACP",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lilbabyapeclubpolygon",
+  "SHOW_BACKGROUND": true
+}
